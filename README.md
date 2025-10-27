@@ -4,7 +4,7 @@ My first repository
 
 ## The Hobbit
 
-![The Hobbit](https://upload.wikimedia.org/wikipedia/en/a/a2/The_Hobbit_poster.jpg)
+![The Hobbit](The_Hobbit.jpg)
 
 **Author**: J.R.R. Tolkien  
 **Genres**: Fantasy, Adventure  
